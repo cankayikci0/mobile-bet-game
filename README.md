@@ -1,3 +1,5 @@
+
+https://github.com/cankayikci0/mobile-bet-game/assets/106487013/154edbb9-8c8e-4ec2-b3db-7480d7422f82
 # Mobile Bet Game Project
 
 ## A fully functional Mobile Bet Game Project written in Kotlin
@@ -11,4 +13,6 @@ Mobile Bet Game is a mobile application that leverages a sports API to provide u
 * Balance Management: Users can play bets with a preferred amount of money from their balance.
 * Outcome Check: At the end of the day, the application automatically checks the user's bets against the new data and marks them as either a win or a loss.
 
+
+https://github.com/cankayikci0/mobile-bet-game/assets/106487013/8bf50e9a-f84f-4e86-a499-865a504ca587
 
