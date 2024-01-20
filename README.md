@@ -12,5 +12,8 @@ Mobile Bet Game is a mobile application that leverages a sports API to provide u
 * Outcome Check: At the end of the day, the application automatically checks the user's bets against the new data and marks them as either a win or a loss.
 
 
-https://github.com/cankayikci0/mobile-bet-game/assets/106487013/8bf50e9a-f84f-4e86-a499-865a504ca587
+<p align="center">
+  https://github.com/cankayikci0/mobile-bet-game/assets/106487013/8bf50e9a-f84f-4e86-a499-865a504ca587
+</p>
+
 
