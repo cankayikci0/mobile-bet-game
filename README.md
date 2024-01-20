@@ -1,5 +1,3 @@
-
-https://github.com/cankayikci0/mobile-bet-game/assets/106487013/154edbb9-8c8e-4ec2-b3db-7480d7422f82
 # Mobile Bet Game Project
 
 ## A fully functional Mobile Bet Game Project written in Kotlin
